@@ -23,3 +23,7 @@ build/*
 # Exclude Fonts
 fonts/
 _fonts/
+
+# Exclude Images
+images/
+_images/

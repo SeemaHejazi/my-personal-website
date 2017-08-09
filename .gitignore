@@ -28,8 +28,3 @@ _fonts/
 images/
 _images/
 
-
-# Exclude certain pages
-page2.html
-page3.html
-page4.html
